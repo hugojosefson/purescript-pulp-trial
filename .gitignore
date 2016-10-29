@@ -1,4 +1,6 @@
+/bower_components/
 /node_modules/
-/.idea/
-/*.log
-.*.swp
+/.pulp-cache/
+/output/
+/.psci*
+/src/.webpack.js
